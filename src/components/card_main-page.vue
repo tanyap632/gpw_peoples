@@ -28,7 +28,7 @@ const goToHome = () => {
     // Указываем имя маршрута и якорь
     router.push({
       name: 'home',
-      hash: '#operation1941',
+      // hash: '#operation1941',
     })
   } catch (error) {
     console.error('Ошибка перехода:', error)

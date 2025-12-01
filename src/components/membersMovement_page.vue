@@ -46,7 +46,7 @@ function goToDetail(id) {
 <template>
   <div class="block max-w-1640 mx-auto">
     <div class="flex gap-[30px] text-4xl font-bold items-center font-ptsans">
-      <a href="/">Главная</a><span class="bg-black rounded-50 w-18 h-18 block mt-2"></span>
+      <a href="/gpw_peoples/">Главная</a><span class="bg-black rounded-50 w-18 h-18 block mt-2"></span>
       <p>Участники партизанского и подпольного движения</p>
     </div>
     <div class="mt-100">

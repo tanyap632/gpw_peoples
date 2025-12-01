@@ -49,7 +49,7 @@ function goToDetail(id) {
 <template>
   <div class="block max-w-1640 mx-auto">
     <div class="flex items-start gap-[30px] text-4xl font-bold font-ptsans max-h-47">
-      <a href="/" class="self-start">Главная</a>
+      <a href="/gpw_peoples/" class="self-start">Главная</a>
       <span class="bg-black rounded-50 w-18 h-18 self-center flex-shrink-0 flex-grow-0"></span>
       <p class="m-0 self-start">
         Вольнонаёмный состав армии и флота, войск и органов внутренних дел, органов государственной
