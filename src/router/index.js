@@ -140,7 +140,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory('/gpw_people/'), // или другой базовый путь
+  history: createWebHistory('/gpw_peoples/'), // или другой базовый путь
   routes,
 })
 
