@@ -23,6 +23,8 @@ function goToDetail(id) {
   <div class="max-w-315 hidden"></div>
   <div class="max-w-373 hidden"></div>
   <div class="max-w-230 hidden"></div>
+    <div class="max-w-306 hidden"></div>
+     <div class="max-w-329 hidden"></div>
     <div class="max-w-382 hidden"></div>
       <div class="max-w-295 hidden"></div>
 <div class="max-w-352 hidden"></div>
